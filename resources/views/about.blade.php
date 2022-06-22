@@ -24,11 +24,8 @@
                 <div class="text-left pb-1 border-primary mb-4">
                     <h2 class="text-primary">Apa itu Sijabepa?</h2>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis deleniti reprehenderit animi est
-                    eaque corporis! Nisi, asperiores nam amet doloribus, soluta ut reiciendis. Consequatur modi rem,
-                    vero eos ipsam voluptas.</p>
-                <p class="mb-5">Error minus sint nobis dolor laborum architecto, quaerat. Voluptatum porro expedita
-                    labore esse velit veniam laborum quo obcaecati similique iusto delectus quasi!</p>
+                <p>Mengirim paket kiriman antar atau bahkan dalam kota dengan pengiriman darat.Mengirim barang kirimanmu sampai dengan cepat melalui awak pesawat.Siap mengirim paket hingga pulau terpelosok dengan adanya pengiriman laut yang diangkut
+                    dengan kapal pengiriman.</p>
 
                 <div class="row">
                     <div class="col-md-12 mb-md-5 mb-0 col-lg-6">
@@ -37,7 +34,7 @@
                             </div>
                             <div>
                                 <h3>Pengiriman Daratan</h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis.</p>
+                                <p>Mengirim paket kiriman antar atau bahkan dalam kota dengan pengiriman darat.</p>
                                 <p class="mb-0"><a href="#">Learn More</a></p>
                             </div>
                         </div>
@@ -47,7 +44,8 @@
                             <div class="unit-4-icon mb-3 mr-4"><span class="text-primary flaticon-travel"></span></div>
                             <div>
                                 <h3>Pengiriman Lautan</h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis.</p>
+                                <p>Siap mengirim paket hingga pulau terpelosok dengan adanya pengiriman laut yang diangkut
+                                    dengan kapal pengiriman.</p>
                                 <p class="mb-0"><a href="#">Learn More</a></p>
                             </div>
                         </div>
